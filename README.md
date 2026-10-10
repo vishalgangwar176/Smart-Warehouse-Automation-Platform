@@ -12,7 +12,6 @@ An **Operating Systems simulation** that models warehouse operations as OS proce
 | **Current Milestone** | Review 2 – Development & Application (Month 2) |
 | **Overall Progress** | 60% |
 
----
 
 ## 1. Overview
 
